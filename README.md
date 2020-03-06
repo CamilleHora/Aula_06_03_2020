@@ -1,5 +1,6 @@
-# Atividade de Pesquisa
-### Conceito de CSS → O Cascading Style Sheets (CSS) é uma "folha de estilo" composta por “camadas” e utilizada para definir a apresentação (aparência) em páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
+# Atividade de Pesquisa 
+
+ Conceito de CSS → O Cascading Style Sheets (CSS) é uma "folha de estilo" composta por “camadas” e utilizada para definir a apresentação (aparência) em páginas da internet que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML). O CSS define como serão exibidos os elementos contidos no código de uma página da internet e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
 
 Aplicações de CSS → Landing Pages e Hotsites, Sites Estáticos,Portfólio Pessoal, Email marketing e Websites com Bootstrap (ou similar).
 
